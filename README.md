@@ -1,18 +1,18 @@
-**REST-API-CLIENT
+**REST-API-CLIENT**
 
-*COMPANY: CODTECH IT SOLUTIONS
+**COMPANY**: CODTECH IT SOLUTIONS
 
-NAME: BHAMIDIPATI AKHILMITRA
+**NAME**: BHAMIDIPATI AKHILMITRA
 
-INTERN ID:CT12GPD
+**INTERN ID**:CT12GPD
 
-DOMAIN: Java Programming
+**DOMAIN**: Java Programming
 
-BATCH DURATION: DECEMBER 25TH,2024 TO FEBRUARY 25TH,2025
+**BATCH DURATION**: DECEMBER 25TH,2024 TO FEBRUARY 25TH,2025
 
-MENTOR NAME: NEELA SANTHOSH KUMAR
+**MENTOR NAME**: NEELA SANTHOSH KUMAR
 
-ENTER THE DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 Words
+**ENTER THE DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 Words**
 
 
 A **Task REST API Client** is a software tool or module designed to interact with a **Task Management API**, which provides a set of operations for creating, retrieving, updating, and deleting tasks (or to-dos). It acts as a bridge between the user or application and the underlying API, allowing the client to send HTTP requests and receive responses. The client is built to simplify the integration process, abstracting the complexities of HTTP protocols, and providing a user-friendly interface for making requests to the API. Below is an outline of a Task REST API Client's typical design, functionality, and implementation.
